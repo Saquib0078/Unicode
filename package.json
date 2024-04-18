@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "npx nodemon src/indes"
+    "start": "npx nodemon src/index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
