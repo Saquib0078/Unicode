@@ -1,5 +1,4 @@
 const User = require('../Models/UserModel');
-const sendOTP = require('../Utils/twilio');
 const generateOTP = require('../Utils/generateOtp');
 const jwt=require('jsonwebtoken')
 
